@@ -1,0 +1,39 @@
+make all
+make[1]: Entering directory '/home/strugglers/projects/byte-unixbench/UnixBench'
+make distr
+make[2]: Entering directory '/home/strugglers/projects/byte-unixbench/UnixBench'
+Checking distribution of files
+./pgms  exists
+./src  exists
+./testdir  exists
+./tmp  exists
+./results  exists
+make[2]: Leaving directory '/home/strugglers/projects/byte-unixbench/UnixBench'
+make programs
+make[2]: Entering directory '/home/strugglers/projects/byte-unixbench/UnixBench'
+make[2]: Nothing to be done for 'programs'.
+make[2]: Leaving directory '/home/strugglers/projects/byte-unixbench/UnixBench'
+make[1]: Leaving directory '/home/strugglers/projects/byte-unixbench/UnixBench'
+sh: 1: 3dinfo: not found
+
+   #    #  #    #  #  #    #          #####   ######  #    #   ####   #    #
+   #    #  ##   #  #   #  #           #    #  #       ##   #  #    #  #    #
+   #    #  # #  #  #    ##            #####   #####   # #  #  #       ######
+   #    #  #  # #  #    ##            #    #  #       #  # #  #       #    #
+   #    #  #   ##  #   #  #           #    #  #       #   ##  #    #  #    #
+    ####   #    #  #  #    #          #####   ######  #    #   ####   #    #
+
+   Version 6.0.0                      Based on the Byte Magazine Unix Benchmark
+
+   Multi-CPU version                  Version 5 revisions by Ian Smith,
+                                      Sunnyvale, CA, USA
+   May 21, 2025                       johantheghost at yahoo period com
+
+------------------------------------------------------------------------------
+   Use directories for:
+      * File I/O tests (named fs***) = /home/strugglers/projects/byte-unixbench/UnixBench/tmp
+      * Results                      = /home/strugglers/projects/byte-unixbench/UnixBench/results
+------------------------------------------------------------------------------
+
+
+4 x Dhrystone 2 using register variables  1 2 3 4 5 6 7 8 9 10 11 12 13 14
